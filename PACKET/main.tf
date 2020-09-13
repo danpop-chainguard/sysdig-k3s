@@ -1,6 +1,6 @@
 # Configure the Packet Provider. 
 provider "packet" {
-  auth_token = "X1E7irDWCZcdoiu8Z1vh6nyivzUCfBvo"
+  auth_token = "NOTTODAY...NOTTODAY"
 }
 
 # Declare your project ID

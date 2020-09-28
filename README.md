@@ -1,6 +1,7 @@
 # sysdig-k3sblog
 
-1. TF HERE
-2. k3s script here
-3. Sysdig Here
-4. links
+This is an accompanying repo from a k3s blow we created to help you deploy not only K3s but Sysdig as well.
+
+we have attached some
+
+

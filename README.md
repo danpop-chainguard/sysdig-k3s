@@ -1,6 +1,6 @@
 # sysdig-k3sblog
 
-This is an accompanying repo from a k3s blog we created to help you deploy not only K3s but Sysdig as well.
+This is an accompanying repo from a k3s blog we created to help you deploy not only K3s but understand what Sysdig can do for your and your k3s cluster as well.
 
 we have attached some scripts to:
 

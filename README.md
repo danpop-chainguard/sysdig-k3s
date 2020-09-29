@@ -11,3 +11,6 @@ we have attached some scripts to:
 1) Accounts/ssh key to the cloud provdiers
 2) Terraform
 3) K3sup binary in your path or downloaded and available. 
+
+
+# Not for production usage...

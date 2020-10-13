@@ -1,5 +1,5 @@
 provider "google" {
-  project = "gleaming-block-228801"
+  project = "NAME OF PROJECT HERE"
   region  = "us-central1"
   zone    = "us-central1-c"
 }

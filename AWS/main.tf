@@ -23,7 +23,7 @@ data "aws_ami" "ubuntu" {
 resource "aws_instance" "web" {
   ami           = data.aws_ami.ubuntu.id
   instance_type = "t3.xlarge"
-  key_name = "pop09082020"
+  key_name = "keyname!"
   tags = {
     Name = "POPTEST"
     expirationDate = "10-8-2020"
